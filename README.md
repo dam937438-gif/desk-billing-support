@@ -1,0 +1,33 @@
+Dear #EMAIL#,
+
+This message confirms that a billing transaction has been successfully processed for your Norton LifeLock subscription. Please keep this information for your records.
+
+If you did not authorise this transaction or believe this charge is incorrect, please contact our support team immediately at:
+
+📞              +1 (802) 547-4728
+
+━━━━━━━━━━━━━━━━━━━━━━
+INVOICE DETAILS
+━━━━━━━━━━━━━━━━━━━━━━
+
+📄 Invoice Number: #INVOICE#
+🛡️ Service Description: Identity Protection Service
+📅 Subscription Type: Annual Plan
+🗓️ Invoice Date: Tuesday, September 29, 2026
+💲 Billing Amount: $499.99
+✅ Payment Status: Paid
+🟢 Account Status: Active
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+This charge was applied according to your current subscription settings. Your coverage will continue uninterrupted, and all associated services remain fully active.
+No further action is required at this time. If you would like to review your plan, update billing preferences, or have questions regardinvg this invoice, support is available.
+
+📞 Toll-Free Customer Support (U.S.):                +1 (802) 547-4728
+
+You may also access your account online at any time to view billing history and subscription details.
+Thank you for choosing Norton LifeLock for your identity protection needs.
+
+Sincerely,
+Billing Operations Team
+Norton LifeLock
